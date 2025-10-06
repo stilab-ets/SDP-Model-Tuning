@@ -17,3 +17,6 @@ This repository contains the replication package for our paper entitled **"No Si
 
 - **`R Script/`**  
   Includes the script used to perform the **SK-ESD** test.
+
+- **`Literature review/`**  
+  Includes the list of studied papers extracted from SCOPUS with our annotation.
